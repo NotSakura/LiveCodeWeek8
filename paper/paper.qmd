@@ -1,7 +1,7 @@
 ---
-title: "Model Example"
+title: "Politics Live Code"
 author: "Sakura Noskor"
-thanks: "Code and data are available at: https://github.com/NotSakura/MarathonExamination.git"
+thanks: "Code and data are available at: https://github.com/NotSakura/LiveCodeWeek8.git"
 date: today
 date-format: long
 format: pdf
